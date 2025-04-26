@@ -22,6 +22,16 @@ Outside the analytics arena, you'll find me conquering hiking trails like a true
 - Building Dynamic Dashboards and Reports
 
 I'm continuously mastering new tools, exploring industry case studies, and staying up-to-date with trends in analytics, data governance, and IT support.
+---
+
+## *Tech Stack*
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
+</p>
 
 ---
 
