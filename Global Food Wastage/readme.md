@@ -3,7 +3,7 @@
 
 ## Files
 - **[Global Food Wastage Analysis](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/6d6b1eebc5cca1fa8e1b5354ceb0a761c4e57630/Global%20Food%20Wastage/Global%20Food%20Wastage%20Analysis.xlsx)**
-- ** [Global Wastage Analysis](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/6d6b1eebc5cca1fa8e1b5354ceb0a761c4e57630/Global%20Food%20Wastage/Power%20BI%20Global%20Food%20Wastage.png)
+- **[Global Wastage Analysis](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/6d6b1eebc5cca1fa8e1b5354ceb0a761c4e57630/Global%20Food%20Wastage/Power%20BI%20Global%20Food%20Wastage.png)
 
 
 ## Goal
