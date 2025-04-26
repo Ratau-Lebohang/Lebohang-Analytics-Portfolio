@@ -4,8 +4,8 @@
 
 ## Files
 
-- [Jupyter Notebook File](Employee Attrition/HR_Attrition_Analysis.ipynb)
-- [Power BI Dashboard (PNG)](Employee Attrition/HR Attrition Dashboard.png)
+- [Jupyter Notebook File] (Employee Attrition/HR_Attrition_Analysis.ipynb)
+- [Employee Attrition/HR Attrition Dashboard.png] (Employee Attrition/HR Attrition Dashboard.png) 
 
 ---
 
