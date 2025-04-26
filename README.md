@@ -49,5 +49,5 @@ Every project here represents a step forward in mastering data-driven problem-so
 ## Contact
 
 - **Email**: [rataulebohang8@gmail.com]
-- **LinkedIn**: linkedin.com/in/lebohang-r-16067124b](linkedin.com/in/lebohang-r-16067124b) 
+- **LinkedIn**: [linkedin.com/in/lebohang-r-16067124b](linkedin.com/in/lebohang-r-16067124b)
 
