@@ -1,4 +1,4 @@
-#Ratau Lebohang-Analytics-Portfolio
+## Ratau Lebohang-Analytics-Portfolio
 
 
 Welcome to my Portfolio — a curated collection of projects that showcase my technical skills, analytical thinking, and growth journey in the world of Data and IT.
