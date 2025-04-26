@@ -8,7 +8,7 @@ Welcome to my Portfolio — a curated collection of projects that showcase my te
 ## About Me
 
 Hello! I'm **Lebohang**, a passionate **Data Analyst**, **Business Intelligence Analyst**, and **IT Enthusiast** with a **Diploma in IT Management**.  
-I specialize in **data analytics**, **business intelligence analysis**, **IT support**, and **database management**, with a growing focus on **data-driven decision making**.
+I specialize in **data analytics**, **business intelligence analysis**, **IT support**, and **database management**, with a growing focus on **data-driven decision making**. I'm continuously mastering new tools, exploring industry case studies, and staying up-to-date with trends in analytics, data governance, and IT support.
 
 Outside the analytics arena, you'll find me conquering hiking trails like a true adventurer and getting lost in books that keep my mind sharp and inspired!
 
@@ -21,7 +21,7 @@ Outside the analytics arena, you'll find me conquering hiking trails like a true
 - Data Visualization and Storytelling
 - Building Dynamic Dashboards and Reports
 
-I'm continuously mastering new tools, exploring industry case studies, and staying up-to-date with trends in analytics, data governance, and IT support.
+
 ---
 
 ## *Tech Stack*
