@@ -31,7 +31,8 @@ This project highlights my ability to connect **data analysis** to **strategic H
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+</p> 
+
 - **Excel** – Data Cleaning, Formatting, Preliminary Data Exploration
 - **Python (Jupyter Notebook)** – Exploratory Data Analysis (EDA), Correlation Analysis, Outlier Detection
 - **Power BI** – Interactive Dashboards and Visual Storytelling
