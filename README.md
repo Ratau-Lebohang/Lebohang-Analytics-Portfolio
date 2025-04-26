@@ -13,6 +13,21 @@ I specialize in **data analytics**, **business intelligence analysis**, **IT sup
 Outside the analytics arena, you'll find me conquering hiking trails like a true adventurer and getting lost in books that keep my mind sharp and inspired!
 
 ---
+---
+
+## Purpose of This Repository
+
+This repository serves as a **living document** of my professional journey, showcasing:
+
+- Hands-on data projects
+- Analytical problem-solving skills
+- Technical competency across various tools
+- A growth mindset and commitment to continuous learning
+
+It’s not just a portfolio — it's my evolving **professional journal**.  
+Every project here represents a step forward in mastering data-driven problem-solving and adding measurable value to the digital world.
+
+---
 
 ## Areas of Expertise
 
@@ -35,19 +50,7 @@ Outside the analytics arena, you'll find me conquering hiking trails like a true
 
 ---
 
-## Purpose of This Repository
 
-This repository serves as a **living document** of my professional journey, showcasing:
-
-- Hands-on data projects
-- Analytical problem-solving skills
-- Technical competency across various tools
-- A growth mindset and commitment to continuous learning
-
-It’s not just a portfolio — it's my evolving **professional journal**.  
-Every project here represents a step forward in mastering data-driven problem-solving and adding measurable value to the digital world.
-
----
 
 ## Certificates
 
