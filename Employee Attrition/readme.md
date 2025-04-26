@@ -4,7 +4,7 @@
 
 ## Files
 
-- [Jupyter Notebook File]([Employee Attrition/HR_Attrition_Analysis.ipynb](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/1062d64dae43986d978a961fb64892db622ac629/Employee%20Attrition/HR_Attrition_Analysis.ipynb)).
+- [Jupyter Notebook File]([Jupyter Notebook File](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/1062d64dae43986d978a961fb64892db622ac629/Employee%20Attrition/HR_Attrition_Analysis.ipynb)).
 - [Employee Attrition Dashboard](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/a98492973bdc95daf78bfc7d5b43ddad2c402cde/Employee%20Attrition/HR%20Attrition%20Dashboard.png)
 
 
