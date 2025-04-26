@@ -5,7 +5,7 @@
 ## Files
 
 - [Jupyter Notebook File](Employee Attrition/HR_Attrition_Analysis.ipynb).
-- [Employee Attrition Dashboard Image](Employee%20Attrition/HR%20Attrition%20Dashboard.png)
+- [Employee Attrition Dashboard](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/a98492973bdc95daf78bfc7d5b43ddad2c402cde/Employee%20Attrition/HR%20Attrition%20Dashboard.png)
 
 
 ---
