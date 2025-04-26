@@ -4,7 +4,7 @@
 
 ## Files
 
-- [Jupyter Notebook File](Employee%20Attrition/HR_Attrition_Analysis.ipynb)
+- [Jupyter Notebook File](Employee Attrition/HR_Attrition_Analysis.ipynb).
 - [Employee Attrition Dashboard Image](Employee%20Attrition/HR%20Attrition%20Dashboard.png)
 
 
