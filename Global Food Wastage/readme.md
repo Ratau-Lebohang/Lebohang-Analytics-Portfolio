@@ -20,8 +20,8 @@ Key steps included data loading, cleaning, exploratory data analysis (EDA), and 
 - Dashboard development
 - Trend analysis
 
-##  Technology
-## *Tech Stack*
+
+## *Tools used*
 <p align="left">
    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
