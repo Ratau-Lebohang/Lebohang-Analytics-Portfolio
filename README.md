@@ -59,8 +59,8 @@ Every project here represents a step forward in mastering data-driven problem-so
 
 ---
 
-## Contact
+##  Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lebohang-r-16067124b)
 
-- **Email**: [rataulebohang8@gmail.com]
-- **LinkedIn**: [linkedin.com/in/lebohang-r-16067124b](linkedin.com/in/lebohang-r-16067124b)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rataulebohang8@gmail.com)
 
