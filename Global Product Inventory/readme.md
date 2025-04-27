@@ -4,14 +4,12 @@
 - [Jupyter Notebook File](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/2feb04dd84cc1c4b606d2a101a6648c50d7e72e6/Global%20Product%20Inventory/Global%20Product%20Inventory%20.ipynb)
 
 ## Objective 
-The objective of this project is to perform a comprehensive product inventory analysis to uncover 
-trends in stock management, pricing behavior, product demand indicators, and potential operational 
-inefficiencies. Through advanced data exploration, the project aims to inform better logistics planning, optimize 
-product assortment, and enhance customer satisfaction strategies. 
+The objective of this project is to perform a comprehensive product inventory analysis to uncover trends in stock management, pricing behavior, product demand indicators, and potential operational inefficiencies. Through advanced data exploration, the project aims to inform better logistics planning, optimize product assortment, and enhance customer satisfaction strategies. 
+
 --- 
 
 
-##  Tools Used - 
+##  Tools Used 
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -42,7 +40,7 @@ product assortment, and enhance customer satisfaction strategies.
 --- 
 
 
-##  Recommendations - 
+##  Recommendations 
 - Implement **dynamic discounting** for products nearing expiration (6–9 months) to minimize write-offs and reduce losses.
 - **Control pricing inconsistencies** in categories affected by variations (e.g., color, size) to ensure fair pricing while protecting margins.
 - Investigate **product quality issues** in lower-rated categories and roll out targeted customer feedback surveys, bundled discount offers, or loyalty incentives to improve satisfaction and drive sales.
