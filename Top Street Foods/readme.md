@@ -2,7 +2,7 @@
 
 ## Files 
 - [SQL File](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/541990817489b71db7af2b22e99f9bceb879ebb4/Top%20Street%20Foods/Top%20Street%20Food%20Analysis.sql)
-- [Tableau Dashboarrd](https://public.tableau.com/app/profile/lebohang.ratau/vizzes)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/lebohang.ratau/vizzes)
 
 ##  Goal 
 To explore a comprehensive Kaggle dataset of top street food vendors and extract fun, meaningful insights by looking at vendor data, food categories, and customer ratings. 
