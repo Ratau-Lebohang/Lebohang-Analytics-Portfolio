@@ -1,6 +1,6 @@
-Retail Sales & Customer Demographics Analysis 
+# Retail Sales & Customer Demographics Analysis 
 
-## Files - 
+## Files 
 - [SQL File](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/d459da64f3a7c1e52f9556a776e2d787229fc740/Retail%20Sales/Retail%20Analysis.sql)
 - [Tableau Dashboarrd](https://public.tableau.com/app/profile/lebohang.ratau/vizzes)
 
