@@ -20,10 +20,9 @@ For this personal project, I dove into a raw dataset of street food vendors from
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p> 
 
-## Technology
-- SQL (BigQuery) - Tableau / Power BI - Microsoft Excel
+- SQL (BigQuery), Tableau and Microsoft Excel
 
-## Skills - 
+## Skills 
 Data cleaning - Data transformation - Exploratory data analysis (EDA) - Data visualization 
 
 
