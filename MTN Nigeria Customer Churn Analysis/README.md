@@ -1,10 +1,12 @@
 # MTN Nigeria Customer Churn Analysis (Q1 2025)
 
-![Power BI Banner](https://img.shields.io/badge/Tool-PowerBI-blue?style=flat-square) ![SQL Badge](https://img.shields.io/badge/Tool-SQL-orange?style=flat-square) ![Excel Badge](https://img.shields.io/badge/Tool-Excel-green?style=flat-square)
 
 ## Dataset
-[Kaggle Dataset – MTN Nigeria Customer Churn](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nigeriacustomer-churn)
+[Kaggle Dataset – MTN Nigeria Customer Churn](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nigeria-customer-churn)
 
+## Files 
+- [SQL File](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/d459da64f3a7c1e52f9556a776e2d787229fc740/Retail%20Sales/Retail%20Analysis.sql)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/lebohang.ratau/vizzes)
 ---
 
 ## Project Background
@@ -14,7 +16,11 @@ MTN Nigeria, one of Africa’s largest telecommunications providers, is grapplin
 ---
 
 ## Tools & Technologies Used
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p> 
 - **Microsoft Excel** – Data cleaning & initial review  
 - **SQL** – Exploratory Data Analysis (EDA)  
 - **Power BI** – Interactive dashboards & data visualization
@@ -44,7 +50,7 @@ MTN Nigeria, one of Africa’s largest telecommunications providers, is grapplin
 
 ---
 
-## Final Recommendations
+## Recommendations
 
 1. **Price Optimization**  
    Align call tariffs with competitor benchmarks to stay competitive.
@@ -61,18 +67,7 @@ MTN Nigeria, one of Africa’s largest telecommunications providers, is grapplin
 5. **Predictive Analytics**  
    Develop machine learning models to proactively identify churn risks.
 
----
-
-## Sample Visuals (Power BI Dashboards)
-
-> *(Insert dashboard screenshots here)*  
-> Example: Churn Overview | Device Usage | Segment Drilldown
 
 ---
 
-## 📬 Contact
-
-Connect with me on [LinkedIn](https://www.linkedin.com) | View my full [Portfolio](https://github.com)
-
----
 
