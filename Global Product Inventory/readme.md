@@ -4,7 +4,7 @@
 - [Jupyter Notebook File](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/2feb04dd84cc1c4b606d2a101a6648c50d7e72e6/Global%20Product%20Inventory/Global%20Product%20Inventory%20.ipynb)
 
 ## Objective 
-The objective of this project is to perform a comprehensive product inventory analysis to uncover trends in stock management, pricing behavior, product demand indicators, and potential operational inefficiencies. Through advanced data exploration, the project aims to inform better logistics planning, optimize product assortment, and enhance customer satisfaction strategies. 
+The objective of this project is to perform a comprehensive product inventory analysis to uncover trends in stock management, pricing behavior, product demand indicators, and potential operational inefficiencies. Through advanced data exploration, the project aims to inform better logistics planning, optimize product assortment, and enhance customer satisfaction strategies.
 
 --- 
 
