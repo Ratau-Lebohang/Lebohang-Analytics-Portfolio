@@ -5,8 +5,8 @@
 [Kaggle Dataset – MTN Nigeria Customer Churn](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nigeria-customer-churn)
 
 ## Files 
-- [SQL File](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/d459da64f3a7c1e52f9556a776e2d787229fc740/Retail%20Sales/Retail%20Analysis.sql)
-- [Tableau Dashboard](https://public.tableau.com/app/profile/lebohang.ratau/vizzes)
+- [SQL File](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/bf214889af8077bf2b48b3ed6a7151768d43ddca/MTN%20Nigeria%20Customer%20Churn%20Analysis/MTN%20sql%20queries.sql)
+- [Dashboard](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/bf214889af8077bf2b48b3ed6a7151768d43ddca/MTN%20Nigeria%20Customer%20Churn%20Analysis/MTN%20Customer%20Churn%20Dashboard.pdf)
 ---
 
 ## Project Background
