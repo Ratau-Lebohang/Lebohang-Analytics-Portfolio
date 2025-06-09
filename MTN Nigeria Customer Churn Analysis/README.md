@@ -15,15 +15,17 @@ MTN Nigeria, one of Africa’s largest telecommunications providers, is grapplin
 
 ---
 
-## Tools & Technologies Used
+## Tools Used 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p> 
-- **Microsoft Excel** – Data cleaning & initial review  
-- **SQL** – Exploratory Data Analysis (EDA)  
-- **Power BI** – Interactive dashboards & data visualization
+
+- **Excel**: Data cleaning, standardization, and pre-processing 
+- **SQL**: Exploratory Data Analysis (EDA), querying relationships, segmentation
+- **Tableau**: Interactive dashboard creation, data visualization, and storytelling
 
 ---
 
