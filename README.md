@@ -11,7 +11,6 @@ Hello! I'm **Lebohang**, a passionate **Data Analyst**, **Business Intelligence 
 I specialize in **data analytics**, **business intelligence analysis**, **IT support**, and **database management**, with a growing focus on **data-driven decision making**. I'm continuously mastering new tools, exploring industry case studies, and staying up-to-date with trends in analytics, data governance, and IT support.
 
 ---
----
 
 ## Purpose of This Repository
 
