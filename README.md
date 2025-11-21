@@ -1,4 +1,4 @@
-## Ratau Lebohang Data Analytics Portfolio
+## Ratau Lebohang Data Analytics Project
 
 
 Welcome to my Portfolio — a curated collection of projects that showcase my technical skills, analytical thinking, and growth journey in the world of Data and IT.
@@ -8,7 +8,7 @@ Welcome to my Portfolio — a curated collection of projects that showcase my te
 ## About Me
 
 Hello! I'm **Lebohang**, a passionate **Data Analyst**, **Business Intelligence Analyst**, and **IT Enthusiast** with a **Diploma in IT Management**.  
-I specialize in **data analytics**, **business intelligence analysis**, **IT support**, and **database management**, with a growing focus on **data-driven decision making**. I'm continuously mastering new tools, exploring industry case studies, and staying up-to-date with trends in analytics, data governance, and IT support.
+I specialize in **data analytics**, **business intelligence analysis** and **database management**, with a growing focus on **data-driven decision making**. I'm continuously mastering new tools, exploring industry case studies, and staying up-to-date with trends in analytics, data governance, and IT support.
 
 ---
 
