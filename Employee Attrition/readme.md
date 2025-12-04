@@ -6,7 +6,7 @@
 
 - [Jupyter Notebook File](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/1062d64dae43986d978a961fb64892db622ac629/Employee%20Attrition/HR_Attrition_Analysis.ipynb)
 - [Employee Attrition Dashboard](https://github.com/Ratau-Lebohang/Lebohang-Analytics-Portfolio/blob/a98492973bdc95daf78bfc7d5b43ddad2c402cde/Employee%20Attrition/HR%20Attrition%20Dashboard.png)
-https://capeitinitiative-my.sharepoint.com/:u:/g/personal/lebohang_ratau_capaciti_org_za/IQBeExFoVFURRZe7yqRrT_cpAZhEubWP7JT-IxDS7nWtL9o?e=AcUm8S 
+
 
 ---
 
